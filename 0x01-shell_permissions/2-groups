@@ -1,3 +1,2 @@
-chmod +x 2-groups
 #!/bin/bash
 groups
