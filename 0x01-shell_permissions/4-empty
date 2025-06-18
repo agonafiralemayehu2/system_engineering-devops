@@ -1,4 +1,6 @@
 #!/bin/bash
+# Script to create an empty file named 'hello'
+
 touch hello
 
 
