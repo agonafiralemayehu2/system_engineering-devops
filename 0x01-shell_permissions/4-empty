@@ -1,5 +1,6 @@
 touch hello
--rw-r--r-- 1 user user 0 <date> hello
+./4-empty
+
 
 
 
