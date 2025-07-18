@@ -1,3 +1,0 @@
-#!/bin/bash
-# Display this script's own PID
-echo $$ 

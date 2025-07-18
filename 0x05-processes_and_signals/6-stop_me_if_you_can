@@ -1,3 +1,0 @@
-#!/bin/bash
-# Cannot use kill or killall; using pkill is allowed
-pkill -f 4-to_infinity_and_beyond

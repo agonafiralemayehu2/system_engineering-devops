@@ -1,3 +1,0 @@
-#!/bin/bash
-# Show all processes for all users, including those with no TTY, user-oriented format, with hierarchy
-ps -e --forest -o user,pid,%cpu,%mem,vsz,rss,tty,stat,start,time,cmd
